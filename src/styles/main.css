@@ -404,6 +404,7 @@ a {
 
 .projectPic-2 .img-2 {
   width: auto;
+  max-width: 750px !important;
   height: 500px;
   max-width: 45vw;
 }
